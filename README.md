@@ -1,0 +1,33 @@
+# Documentación técnica
+
+## 1. Estructura de archivos
+
+index.html    
+index.css    
+app.js    
+gracias.html    
+gracias.css    
+herramientas.html    
+herramientas.css    
+pol-privacidad.html    
+pol-privacidad.css    
+
+## 2. Dependencias externas
+
+Formspree: es un servicio de back-end que se encarga del procesamiento y almacenamiento de formularios, permite incluirlos en sitios web.    
+Google Fonts: catálogo de fuentes tipográficas. En este sitio se utilizan las fuentes “Roboto” y “Poppins”.
+
+## 3. Propósito de cada página
+
+-index: página principal del sitio de servicios de automatización, contiene presentación profesional, servicios ofrecidos, ejemplo, preguntas frecuentes y formulario de contacto.     
+-gracias: página de confirmación y mensaje a los usuarios que completan y envían el formulario.    
+-herramientas: servicios y herramientas externas utilizadas en el desarrollo del sitio.    
+-pol-privacidad: documento legal que informa sobre el uso, tratamiento y protección de datos personales.    
+
+## 4. Seguridad y privacidad
+
+-Formulario protegido por Formspree, sin almacenamiento local de datos.    
+-No se utilizan cookies ni scripts de rastreo.    
+-Implementación de metaetiquetas robots, og: y description para SEO  y visibilidad controlada.
+
+
