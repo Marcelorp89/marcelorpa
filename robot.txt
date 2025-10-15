@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marcelo-rodriguez.netlify.app/sitemap.xml
